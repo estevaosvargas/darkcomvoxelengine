@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c747b15ce561bd94b99620c3514c972e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: '{"shaderPath":"VPaint/Lit/Blend 4 Bumped Textures","attributes":[{"channel":4,"index":0,"range":{"x":0.0,"y":1.0},"propertyTarget":"_Texture1","mask":0},{"channel":4,"index":0,"range":{"x":0.0,"y":1.0},"propertyTarget":"_Texture2","mask":0}]}'
+  assetBundleName: 
+  assetBundleVariant: 
